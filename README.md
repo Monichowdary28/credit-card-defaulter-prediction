@@ -1,1 +1,1 @@
-# credit-card-defaulter-prediction
+# Loan-defaulter-prediction
